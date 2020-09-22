@@ -1,5 +1,7 @@
-# tuq-tac-toe
+# Tuq Tac Toe
 Replica of Tic Tac Toe made for Tuq job application. Implemented user interface using Tkinter in Python.
+
+<br/>
 
 ## How to Use
 
