@@ -6,15 +6,9 @@ Replica of Tic Tac Toe made for Tuq job application. Implemented user interface 
 1. Run main.py using VSCode or any console
 2. Enjoy!
 
-## Screenshots of app in action
-
-![](samples/login.PNG)
-login page!
-
 <br/>
 
-![](samples/xwin.PNG)  ![](samples/owin.PNG) ![](samples/tie.PNG)
-Win text if X, O, or Tie
+## The app in action
 
 ![](samples/vidsample.gif)
 Here is the app in action!
