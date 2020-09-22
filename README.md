@@ -11,4 +11,3 @@ Replica of Tic Tac Toe made for Tuq job application. Implemented user interface 
 ## The app in action
 
 ![](samples/vidsample.gif)
-Here is the app in action!
