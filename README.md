@@ -7,3 +7,8 @@ Replica of Tic Tac Toe made for Tuq job application. Implemented user interface 
 2. Enjoy!
 
 ## Screenshots of app in action
+
+![](samples/login.PNG)]
+login page!
+
+<br/>
