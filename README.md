@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Tic Tac Toe game created using Tkinter in Python.
+Tic Tac Toe game created using Tkinter, Python, and OOP principles.
 
 <br/>
 
